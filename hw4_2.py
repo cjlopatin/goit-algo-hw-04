@@ -29,3 +29,5 @@ def get_cats_info(path):
 
 result = get_cats_info("cats.txt") # вводимо змінну результату по функції, яка бере шлях файлу
 print(result) # виводимо словник на екран терміналу
+
+# комент
